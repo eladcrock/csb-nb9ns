@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://eladcrock.github.io/csb-nb9ns/static/css/main.64e99948.chunk.css",
-    "main.js": "https://eladcrock.github.io/csb-nb9ns/static/js/main.6c6a58d9.chunk.js",
-    "main.js.map": "https://eladcrock.github.io/csb-nb9ns/static/js/main.6c6a58d9.chunk.js.map",
-    "runtime-main.js": "https://eladcrock.github.io/csb-nb9ns/static/js/runtime-main.39b29072.js",
-    "runtime-main.js.map": "https://eladcrock.github.io/csb-nb9ns/static/js/runtime-main.39b29072.js.map",
-    "static/css/2.d8cc838b.chunk.css": "https://eladcrock.github.io/csb-nb9ns/static/css/2.d8cc838b.chunk.css",
-    "static/js/2.a0995178.chunk.js": "https://eladcrock.github.io/csb-nb9ns/static/js/2.a0995178.chunk.js",
-    "static/js/2.a0995178.chunk.js.map": "https://eladcrock.github.io/csb-nb9ns/static/js/2.a0995178.chunk.js.map",
-    "static/js/3.d26c1e14.chunk.js": "https://eladcrock.github.io/csb-nb9ns/static/js/3.d26c1e14.chunk.js",
-    "static/js/3.d26c1e14.chunk.js.map": "https://eladcrock.github.io/csb-nb9ns/static/js/3.d26c1e14.chunk.js.map",
-    "index.html": "https://eladcrock.github.io/csb-nb9ns/index.html",
-    "static/css/2.d8cc838b.chunk.css.map": "https://eladcrock.github.io/csb-nb9ns/static/css/2.d8cc838b.chunk.css.map",
-    "static/css/main.64e99948.chunk.css.map": "https://eladcrock.github.io/csb-nb9ns/static/css/main.64e99948.chunk.css.map",
-    "static/js/2.a0995178.chunk.js.LICENSE.txt": "https://eladcrock.github.io/csb-nb9ns/static/js/2.a0995178.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-nb9ns/static/css/main.47e688a0.chunk.css",
+    "main.js": "https://.github.io/csb-nb9ns/static/js/main.6c6a58d9.chunk.js",
+    "main.js.map": "https://.github.io/csb-nb9ns/static/js/main.6c6a58d9.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-nb9ns/static/js/runtime-main.f61d0bd1.js",
+    "runtime-main.js.map": "https://.github.io/csb-nb9ns/static/js/runtime-main.f61d0bd1.js.map",
+    "static/css/2.d8cc838b.chunk.css": "https://.github.io/csb-nb9ns/static/css/2.d8cc838b.chunk.css",
+    "static/js/2.a0995178.chunk.js": "https://.github.io/csb-nb9ns/static/js/2.a0995178.chunk.js",
+    "static/js/2.a0995178.chunk.js.map": "https://.github.io/csb-nb9ns/static/js/2.a0995178.chunk.js.map",
+    "static/js/3.d26c1e14.chunk.js": "https://.github.io/csb-nb9ns/static/js/3.d26c1e14.chunk.js",
+    "static/js/3.d26c1e14.chunk.js.map": "https://.github.io/csb-nb9ns/static/js/3.d26c1e14.chunk.js.map",
+    "index.html": "https://.github.io/csb-nb9ns/index.html",
+    "static/css/2.d8cc838b.chunk.css.map": "https://.github.io/csb-nb9ns/static/css/2.d8cc838b.chunk.css.map",
+    "static/css/main.47e688a0.chunk.css.map": "https://.github.io/csb-nb9ns/static/css/main.47e688a0.chunk.css.map",
+    "static/js/2.a0995178.chunk.js.LICENSE.txt": "https://.github.io/csb-nb9ns/static/js/2.a0995178.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.39b29072.js",
+    "static/js/runtime-main.f61d0bd1.js",
     "static/css/2.d8cc838b.chunk.css",
     "static/js/2.a0995178.chunk.js",
-    "static/css/main.64e99948.chunk.css",
+    "static/css/main.47e688a0.chunk.css",
     "static/js/main.6c6a58d9.chunk.js"
   ]
 }
